@@ -16,7 +16,7 @@
 ✉️  You can contact me at [mckinleyvsterling@gmail.com](mailto:mckinleyvsterling@gmail.com) 
   
 
-💻 I have 11+ years experience working in Information Technology; 10 of the 11+ years I worked in infrastructure. Due to my career experience in middleware, system administration, and application support/intregation, I have set a goal to upskill and enter the DevOps space. My skillset is transferable to the DevOps role which makes the transition easier.
+💻 I have 10+ years experience working in Information Technology; 10 of the 11+ years I worked in infrastructure. Due to my career experience in middleware, system administration, and application support/intregation, I have set a goal to upskill and enter the DevOps space. My skillset is transferable to the DevOps role which makes the transition easier.
 
     
 🎓 I am currently enrolled in KuraLabs Training Program/Academy for Infrastructure Computing, DevOps Engineering and Site Reliability Engineering
