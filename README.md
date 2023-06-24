@@ -30,10 +30,10 @@ Feel free to connect with me:
 
 <h2>🛡️ Badges</h2> 
 <div>
-    <a href="https://www.credly.com/badges/343b2e0b-33e6-4c2e-aa11-d3a3d8d21e2f/public_url">
+    <a href="https://www.credly.com/badges/20e09a18-69e3-46fe-808c-953b896d130e/public_url">
          <img src="https://github.com/SterlingMcKinley/SterlingMcKinley/blob/main/aws-certified-cloud-practitioner.png" width="150 px" height = "150px" >
-      </a>
-     <a href="https://www.credly.com/badges/20e09a18-69e3-46fe-808c-953b896d130e/public_url">
+    </a>
+      <a href="https://www.credly.com/badges/343b2e0b-33e6-4c2e-aa11-d3a3d8d21e2f/public_url">
         <img src="https://github.com/SterlingMcKinley/SterlingMcKinley/blob/main/kcna-kubernetes-and-cloud-native-associate.png" width="150 px" height = "150px" >
      </a>    
   </div>
